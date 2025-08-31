@@ -1,15 +1,18 @@
-[NOMBRE DEL JUEGO] es un videojuego educativo diseñado para enseñar [MATERIA] 
-a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante. 
-La historia se desarrolla en [ESCENARIO], un mundo lleno de misterios, desafíos y 
-personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del 
-juego está diseñado para combinar diversión y educación, permitiendo que los 
-estudiantes adquieran conocimientos de manera natural mientras exploran, 
-resuelven problemas y superan obstáculos. 
-El protagonista de esta aventura es [NOMBRE], un/a [DESCRIPCIÓN FÍSICA Y DE 
-PERSONALIDAD]. [NOMBRE] es un/a [ROL] que ha sido elegido/a para una misión 
-única: [OBJETIVO PRINCIPAL]. Con su [CARACTERÍSTICA ESPECIAL], [NOMBRE] 
-deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a 
-los jugadores conceptos clave de [MATERIA]. 
+Aventuras Cosmicas es un videojuego educativo diseñado para enseñar exploración espacial
+y habilidades estratégicas a estudiantes de primaria a través de una experiencia inmersiva
+y muy emocionante. La historia se desarrolla en la Galaxia Arcanum, un universo lleno de 
+planetas misteriosos, estaciones espaciales abandonadas y civilizaciones alienígenas, 
+un mundo lleno de misterios, desafíos y personajes fascinantes que guiarán a los jugadores
+en su aprendizaje. Cada nivel del juego está diseñado para combinar diversión y educación,
+permitiendo que los estudiantes adquieran conocimientos de manera natural mientras exploran,
+resuelven problemas y superan obstáculos. El protagonista de esta aventura es Nova, 
+una joven piloto espacial de cabello plateado y espíritu intrépido. Nova es una 
+cadete de la Federación Estelar que ha sido elegida para una misión
+única:restaurar el equilibrio de la galaxia recuperando los Fragmentos del Cosmos. 
+Con su nave estelar capaz de viajar a la velocidad de la luz, Nova
+deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a
+los jugadores conceptos clave de exploración espacial y habilidades estratégicas.
+
 El jugador podrá [MECÁNICA 1], para avanzar deberá [MECÁNICA 2] y los desafíos 
 incluirán [TIPO DE DESAFÍOS] 
 Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa [CONCEPTO 
@@ -23,3 +26,4 @@ El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para
 [PLATAFORMAS]. Además, se implementarán características como 
 [CARACTERÍSTICAS TÉCNICAS ADICIONALES] para garantizar una experiencia de 
 juego fluida y atractiva.
+
